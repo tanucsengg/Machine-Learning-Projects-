@@ -50,4 +50,35 @@ To checkout my notebook please click [here](https://github.com/tanucsengg/Machin
 -   **USA**  is a leader in terms of medal count but need to see that other countries need to improve their strategies for the olympics.
 
  To checkout my notebook please click [here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/EDA%20on%20%20Olympics%20dataset%20.ipynb)
+ ## Project 3:
+# Gender Recognition Using KNN and SVM
+![enter image description here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/gender.jpeg)
+## Problem Statement
+
+The label defines the voice as male or female The main objective is to find a function that can predict wheter the voice belongs to the male or a female using the 20 other features.This database’s goal is to help systems identify whether a voice is male or female based upon acoustic properties of the voice and speech. 
+In this Project I have used three algorithm (Nearest Neighbor, SVM, Naive Bayes) to compare the accuracy.
+
+The Three algorithm have been compared in this like Nearest Neighbor, SVM, Naive Bayes Accuracy is highest Nearest Neightbor which is 98 % followed by SVM wih 97 % followed by Naive Bayes 90 % Thus in terms of Acuuracy the Nearest neighbor is the best but other are also doing great as they are giving accuracy more than 90%
+
+To checkout my notebook please click [here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/Gender%20recognition%20Project%20Using%20KNN,%20SVM%20.ipynb)
+
+## Project 4:
+# House Price prediction
+![enter image description here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/house%20price%20prediction.jpg)
+### Problem Statement
+
+The SalePrice (in dollars) for a particular House as a function of eighty one explanatory variables(EV) explaining all the aspects of the House.
+
+The main objective is to find a function which can predicts the SalePrice of a House using the 81 explanatory variables.
+
+Identification of the features which contribute to the SalePrice.
+
+The relationship between the various features and their response is represented using various visualization methods.
+### Conclusion 
+-   OverallQual (with 59% importance among all the features) is the most important feature in determining the SalePrice of a House.
+-   The other features that influence the SalePrice of a House include GrLivArea, TotalBsmtSF, BsmtFinSF1, 1stFlrSF, GarageArea, TotRmsAbvGrd, BsmtUnfSF, BsmtQual, ExterQual, GarageCars, WoodDeckSF, KitchenQual, LotArea & 2ndFlrSF.
+-   The above mentioned 15 features together contribute 93% in determining the SalePrice of a House.
+-   The rest of the features contribute just 7% in determination of SalePrice of a House
+Visually we have checked that a nice plot occurs for my model . By observing the overlapping between the Actual & Predicted values, we can conclude that our model has performed fairly well.
+For checking my notebook please click [here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/House%20Price%20Prediction%20using%20Machine%20Learning%20Algorithm.ipynb)
 
