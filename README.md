@@ -2,6 +2,7 @@
 ## Project 1:
 # Demographic Of Insaid Telecom Customers
 ![enter image description here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/telecom.png)
+
 **Introduction:**
 
 It's always wonderful to see services customized to our needs. Businesses try to understand our behaviour and adjust their offerings so as to ensure we feel attached to their services.
