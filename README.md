@@ -83,3 +83,27 @@ The relationship between the various features and their response is represented 
 Visually we have checked that a nice plot occurs for my model . By observing the overlapping between the Actual & Predicted values, we can conclude that our model has performed fairly well.
 For checking my notebook please click [here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/House%20Price%20Prediction%20using%20Machine%20Learning%20Algorithm.ipynb)
 
+## Project 5
+# Linear Regression Model Implementation on E-Customer dataset
+https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/e%20customer.jpg
+
+We'll work with the Ecommerce Customers csv file from the company. It has Customer info, such as Email, Address, and their color Avatar. Then it also has numerical value columns:[]
+Avg. Session Length: Average session of in-store style advice sessions. Time on App: Average time spent on App in minutes Time on Website: Average time spent on Website in minutes Length of Membership: How many years the customer has been a member.
+Using Linear Regression Model I understood the following things on the dataset as 
+
+|  | Coeffecient |
+|--|--|
+| Avg. Session Length | 25.981550 |
+| Time on App | 38.590159	|
+|Time on Website|0.190405|
+|Length of Membership|61.279097|
+|||
+
+-     
+    Holding all other features fixed, a 1 unit increase in  **Avg. Session Length**  is associated with an increase of 25.98 total dollars spent.
+-   Holding all other features fixed, a 1 unit increase in  **Time on App**  is associated with an increase of 38.59 total dollars spent.
+-   Holding all other features fixed, a 1 unit increase in  **Time on Website**  is associated with an increase of 0.19 total dollars spent.
+-   Holding all other features fixed, a 1 unit increase in  **Length of Membership**  is associated with an increase of 61.27 total dollars spent
+
+To see the code click [here](https://github.com/tanucsengg/Machine-Learning-Projects-/blob/main/Linear%20Regression%20on%20Ecommerce%20customer%20dataset.ipynb)
+
